@@ -13,3 +13,4 @@ To Run this Application please do the forllowing
 2- Make the documents creators and the doucments categories ( Public or private) to be dynamically added when the documents are being uploaded.
 3- Make documents content to be previewed once clicked on.
 4- Allowe documents to be updated and deleted. 
+5- Make sure documents sizes are limited as well as the types of files that should be uploaded
